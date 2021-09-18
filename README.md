@@ -10,7 +10,7 @@ The purpose of analysis is to create visualizations of rideshare data for PyBer 
 
 
 
-![PyBer_fare_summary.png](PyBer_fare_summary.png)
+![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 
 ## Summary
